@@ -1,2 +1,2 @@
-# NLPcw2
-Mark Turos - NLP cw2 code repository
+# SemEval 2021 - LCP Challenge
+Lexical Complexity Prediction using BERT.
